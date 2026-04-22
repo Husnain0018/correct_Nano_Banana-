@@ -65,7 +65,7 @@ npm run dev
 
 ## 🌐 Live Demo
 
-Coming soon...
+https://correct-nano-banana.vercel.app/
 
 ---
 
